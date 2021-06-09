@@ -4,6 +4,7 @@ class DateFormatter {
 
     // TODO: Complete the following function
     fun toTextDay(day: String, month: String, year: String): String {
-        throw NotImplementedError("Not implemented")
+        /*throw NotImplementedError("Not implemented")*/
+        return ""
     }
 }
